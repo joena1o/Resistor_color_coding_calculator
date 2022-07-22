@@ -1,0 +1,53 @@
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.config
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.pdb
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.xml
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Form1.resources
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Resources.resources
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.vbproj.GenerateResource.Cache
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.xml
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.pdb
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.manifest
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.application
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.TrustInfo.xml
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe.manifest
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.application
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.config
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.xml
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.pdb
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.manifest
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.application
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.pdb
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.xml
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Form1.resources
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Resources.resources
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.vbproj.GenerateResource.Cache
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.TrustInfo.xml
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe.manifest
+C:\Users\kendat\Documents\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.application
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.config
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.xml
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.pdb
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Form1.resources
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Resources.resources
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.vbproj.GenerateResource.Cache
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.TrustInfo.xml
+E:\my Junk\Software Development\Visual Basic\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.config
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.xml
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.pdb
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Form1.resources
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor_Color_Coder.Resources.resources
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.vbproj.GenerateResource.Cache
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.TrustInfo.xml
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe.manifest
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.application
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.exe
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.pdb
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\bin\Debug\Resistor Color Coder.xml
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.exe.manifest
+C:\Users\Balami\Desktop\Resistor Color Coder\Resistor Color Coder\obj\Debug\Resistor Color Coder.application

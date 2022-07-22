@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Resistor Color Coder.exe" version="1.0.0.0" publicKeyToken="be560918f02acc3d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Resistor Color Coder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Resistor Color Coder.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Resistor Color Coder.exe" size="204832">
+      <assemblyIdentity name="Resistor Color Coder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3DaYIWEnTB3weblFQcn55TPXVWu02OjlejYmK7p4dYw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resistor Color Coder.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 8.1, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-RBNFT14\Web Development" issuerKeyHash="177c34fd971da3800369c514240829de28a01082" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>tZggSaZeSp/+GeiPvBTrd6zJOK4uBqyFh7l2tnvGmIo=</DigestValue></Reference></SignedInfo><SignatureValue>F2eYTJatYodujPY8G+TOyE2L9SZx8M+WnoltC+qiQeeKFPBhi+j6zi4jO3Hsv6MUKbKwutAB1be++gjpoIqnEdoggUnrByP0WU3YznhIj5BMpKTSbhctwdpm+yJxV75uwRaQamL7sn9Zg0u/dN8LTikgrFMlixVHrUWgQ3mXM8o=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pnjlSovTFerEKliZgLqe15QC332waNqdrZU3fBTt40N+UIUKLEnnK6b9w+XuSvxNsA3L5cx25TWuUqbFL/6PNBbgvyiRfoXVobbE/6DI0MLZXswO/VFro8FIirZ6yAWIMVDDTcXKr6h4yyvGyfFvT32wV4J3XmHq6aep7/+HyxM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8a98c67bb676b98785ac062eae38c9ac77eb14bc8fe819fe9f4a5ea6492098b5" Description="" Url=""><as:assemblyIdentity name="Resistor Color Coder.exe" version="1.0.0.0" publicKeyToken="be560918f02acc3d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-RBNFT14\Web Development</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JWeKalGm/qp2gEf6WjhC0BS8tZY8C8fJ3s4GN1392ss=</DigestValue></Reference></SignedInfo><SignatureValue>QL7VOk8rXDntfTV7Kao5cnwiriSWsPVVuDnl3jZrbby92qm1dD2b0h83S9cgaPo7uosrFT/QPCqjEPbYCi24bTGIy3vNL5lm2oo0SKKVIS6yFhSwZTw/H0ivpr8NGeODaAOdl9Sj/r5aJvEBlfCKjmDsNvlRw2c9rOwbkt4vaP8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pnjlSovTFerEKliZgLqe15QC332waNqdrZU3fBTt40N+UIUKLEnnK6b9w+XuSvxNsA3L5cx25TWuUqbFL/6PNBbgvyiRfoXVobbE/6DI0MLZXswO/VFro8FIirZ6yAWIMVDDTcXKr6h4yyvGyfFvT32wV4J3XmHq6aep7/+HyxM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICFTCCAX6gAwIBAgIQYFz/mhxOlbhAjJy6BWpeTTANBgkqhkiG9w0BAQsFADBJMUcwRQYDVQQDHj4ARABFAFMASwBUAE8AUAAtAFIAQgBOAEYAVAAxADQAXABXAGUAYgAgAEQAZQB2AGUAbABvAHAAbQBlAG4AdDAeFw0xOTA4MjgyMzExNThaFw0yMDA4MjgwNTExNThaMEkxRzBFBgNVBAMePgBEAEUAUwBLAFQATwBQAC0AUgBCAE4ARgBUADEANABcAFcAZQBiACAARABlAHYAZQBsAG8AcABtAGUAbgB0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmeOVKi9MV6sQqWJmAup7XlALffbBo2p2tlTd8FO3jQ35QhQosSecrpv3D5e5K/E2wDcvlzHblNa5SpsUv/o80FuC/KJF+hdWhtsT/oMjQwtlezA79UWujwUiKtnrIBYgxUMNNxcqvqHjLK8bJ8W9PfbBXgndeYerpp6nv/4fLEwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAA49Pa2tVfKjJja7a4SgBx8yIkx+qtt2z1Jnmu7ynAvU1S3WVL9GLo2LcgpP4C06JE7Igx1agxuHelvpEmWRL8j+QAEFksO55k1uqrSMzQVgbNWnWzbi84dnA/BzJH874RgGUxP8w9bU+97nJ981Deph6+X6VmJ4Y6emRViQDzjH</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
